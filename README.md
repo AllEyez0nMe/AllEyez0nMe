@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-AllEyez0nMe/AllEyez0nMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AllEyez0nMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
